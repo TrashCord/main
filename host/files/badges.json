@@ -3,10 +3,6 @@
     {
       "tooltip": "TrashCord Owner",
       "badge": "https://cdn.jsdelivr.net/gh/TrashCord/main@main/host/icons/TrashCord_icon.png"
-    },
-    {
-      "tooltip": "TrashCord Developers",
-      "badge": "https://cdn.jsdelivr.net/gh/TrashCord/main@main/host/icons/TrashCord_icon.png"
     }
   ]
 }
