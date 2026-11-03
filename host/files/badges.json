@@ -1,8 +1,39 @@
 {
   "456195985404592149": [
-    {
-      "tooltip": "TrashCord Owner",
-      "badge": "https://cdn.jsdelivr.net/gh/TrashCord/main@main/host/icons/TrashCord_icon.png"
-    }
+    { "tooltip": "TrashCord Owner", "badge": "https://cdn.jsdelivr.net/gh/TrashCord/main@main/host/icons/TrashCord_icon.png" },
+    { "tooltip": "Trash Gang", "badge": "https://qu.ax/x/ZC2UN.jpg" },
+    { "tooltip": "BMW Lover", "badge": "https://qu.ax/x/dfClD.png" },
+    { "tooltip": "FTP", "badge": "https://qu.ax/x/EIFdb.jpg" },
+    { "tooltip": "Larper Elitè", "badge": "https://qu.ax/x/nkNuN.gif" },
+    { "tooltip": "Anti-Simp", "badge": "https://qu.ax/x/8xvZo.png" }
+  ],
+  "964276977307631628": [
+    { "tooltip": "TrashCord Devs", "badge": "https://cdn.jsdelivr.net/gh/TrashCord/main@main/host/icons/TrashCord_icon.png" },
+    { "tooltip": "Trash Gang", "badge": "https://qu.ax/x/ZC2UN.jpg" },
+    { "tooltip": "BMW Lover", "badge": "https://qu.ax/x/dfClD.png" },
+    { "tooltip": "FTP", "badge": "https://qu.ax/x/EIFdb.jpg" },
+    { "tooltip": "Larper Elitè", "badge": "https://qu.ax/x/nkNuN.gif" },
+    { "tooltip": "Anti-Simp", "badge": "https://qu.ax/x/8xvZo.png" }
+  ],
+  "928787166916640838": [
+    { "tooltip": "TrashCord Contributor", "badge": "https://qu.ax/x/UyeN0.jpg" }
+  ],
+  "800137032507588650": [
+    { "tooltip": "TrashCord Queen", "badge": "https://cdn.jsdelivr.net/gh/TrashCord/main@main/host/icons/TrashCord_icon.png" },
+    { "tooltip": "Trash Gang", "badge": "https://qu.ax/x/ZC2UN.jpg" },
+    { "tooltip": "FTP", "badge": "https://qu.ax/x/EIFdb.jpg" }
+  ],
+  "347707528601141248": [
+    { "tooltip": "TrashCord Friends", "badge": "https://cdn.jsdelivr.net/gh/TrashCord/main@main/host/icons/TrashGangPage_icon.png" },
+    { "tooltip": "BMW Lover", "badge": "https://qu.ax/x/dfClD.png" }
+  ],
+  "933462479353307196": [
+    { "tooltip": "TrashCord Friends", "badge": "https://cdn.jsdelivr.net/gh/TrashCord/main@main/host/icons/TrashGangPage_icon.png" },
+    { "tooltip": "Trash Gang", "badge": "https://qu.ax/x/ZC2UN.jpg" },
+    { "tooltip": "BMW Lover", "badge": "https://qu.ax/x/dfClD.png" }
+  ],
+  "834832117283422208": [
+    { "tooltip": "TrashCord Friends", "badge": "https://cdn.jsdelivr.net/gh/TrashCord/main@main/host/icons/TrashGangPage_icon.png" },
+    { "tooltip": "Anti-Simp", "badge": "https://qu.ax/x/8xvZo.png" }
   ]
 }
